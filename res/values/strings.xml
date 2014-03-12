@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alert</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="sex_prompt">Choose a sex</string>
+    <string-array name="sex_array">
+        <item>Man</item>
+        <item>Woman</item>
+    </string-array>
+
+</resources>
